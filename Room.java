@@ -1,6 +1,7 @@
 public class Room
 {
     int NumOfBeds;
+	
 
     public Room(int numOfBeds)
     {
